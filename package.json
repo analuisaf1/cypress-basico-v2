@@ -7,11 +7,11 @@
     "cy:open": "cypress open",
     "cy:open:mobile": "cypress open --config viewportWidth=410 viewportHeight=860",
     "test": "cypress run",
-    "cy:run:mobile": "cypress run --config viewportWidth=410 viewportHeight=860",
+    "cy:run:mobile": "cypress run --config viewportWidth=410 viewportHeight=860"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wlsf82/cypress-basico-v2.git"
+    "url": "git+https://github.com/analuisaf1/cypress-basico-v2.git"
   },
   "keywords": [
     "Testing",
